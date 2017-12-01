@@ -1,4 +1,4 @@
-# Circle To Radius
+# Circle To Polygon
 
 This code is a PHP implementation of [arg20/circle-to-radius](https://github.com/arg20/circle-to-radius) npm package.
 
